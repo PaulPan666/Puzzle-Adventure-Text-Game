@@ -9,6 +9,13 @@
 - The program requires a terminal window of at least 80 columns × 24 rows. If the terminal is smaller, the game will pause and remind the player to resize the window.
 - Players can type supported commands to explore, check inventory, get help or quit the game.
 
+## Room Puzzle Overview
+The game contains four distinct puzzle rooms accessible from the central hub:
+- Room 1: A logic puzzle. Players need to analyse clues and give the correct answer to obtain the first key.
+- Room 2: A number‑based riddle. Players solve the numerical challenge to unlock the second key.
+- Room 3: A randomised challenge using Python’s random module. Each playthrough generates slightly different conditions for the puzzle.
+- Room 4: A word puzzle. Players decode the hint and input the target word to gain the fourth key.
+
 ## Available Commands
 | Command | Description |
 | :--- | :--- |
