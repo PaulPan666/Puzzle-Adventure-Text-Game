@@ -19,7 +19,7 @@
 | `move room2` | Travel to Room 2 from the hub |
 | `move room3` | Travel to Room 3 from the hub |
 | `move room4` | Travel to Room 4 from the hub |
-| `play`| Attempt the puzzle in current room (if puzzel is available) |
+| `play`| Attempt the puzzle in current room (if puzzle is available) |
 | `final` | Attempt to unlock the final puzzle (only usable after collecting all keys) |
 | `quit` | Exit the game |
 
